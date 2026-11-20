@@ -1,0 +1,4 @@
+interface:
+  display_name: "Copywriting Specialist"
+  short_description: "Write and review direct-response marketing copy"
+  default_prompt: "Use $copywriting-specialist to draft or review marketing copy for my audience and channel."
